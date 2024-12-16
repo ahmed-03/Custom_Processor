@@ -1,0 +1,14 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Desktop/Computer_Architecture/lab01/lab01.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sim_1/new/tb_TOP.sv,1734270815,systemVerilog,,,,tb_TOP,,,,,,,,
+/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sim_1/new/tb_alu.sv,1734267837,systemVerilog,,,,tb_alu,,,,,,,,
+/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sim_1/new/tb_instruction_memory.sv,1734268152,systemVerilog,,,,tb_instruction_memory,,,,,,,,
+/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sim_1/new/tb_register_file.sv,1734269318,systemVerilog,,,,tb_register_file,,,,,,,,
+/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sources_1/new/TOP.sv,1734272721,systemVerilog,,/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sources_1/new/alu.sv,,TOP,,,,,,,,
+/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sources_1/new/alu.sv,1734266621,systemVerilog,,/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sources_1/new/instruction_memory.sv,,alu,,,,,,,,
+/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sources_1/new/instruction_memory.sv,1734271935,systemVerilog,,/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sources_1/new/program_counter.sv,,instruction_memory,,,,,,,,
+/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sources_1/new/program_counter.sv,1734271809,systemVerilog,,/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sources_1/new/register_file.sv,,program_counter,,,,,,,,
+/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sources_1/new/register_file.sv,1734268841,systemVerilog,,/home/it/Desktop/Computer_Architecture/lab01/lab01.srcs/sim_1/new/tb_TOP.sv,,register_file,,,,,,,,
